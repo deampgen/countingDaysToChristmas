@@ -81,7 +81,7 @@ async def update_countdown():
             break
 
         diff = TARGET_DATE - now
-        text = f"⏳ До Нового года осталось:\n\n{format_countdown(diff)}"
+        text = f" До Нового года осталось:\n\n{format_countdown(diff)}"
 
         try:
             await bot.edit_message_text(
