@@ -5,7 +5,7 @@ from aiogram.types import Message
 
 
 BOT_TOKEN = "8223081390:AAFV0KbkVOqey3jw9tqGNWExXZ3WJJKiuQQ"
-CHAT_ID = -1003514039550
+CHAT_ID = -1002885153005
 TARGET_DATE = datetime(2026, 1, 1, 0, 0, 0)
 
 
